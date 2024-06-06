@@ -171,3 +171,6 @@ MathInstructLarge/
 results/
 results0/
 results1/
+
+# ignore the output model 
+Meta-Llama-3-8B-Instruct-abliterated-math-v0/
