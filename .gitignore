@@ -163,7 +163,11 @@ cython_debug/
 
 # ignore the local copy of the dataset
 MathInstructDataset/
+MathInstructSmall/
+MathInstructMedium/
+MathInstructLarge/
 
 # ignore the model weights and checkpoints
 results/
 results0/
+results1/

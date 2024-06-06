@@ -3,3 +3,4 @@ huggingface_hub
 transformers
 trl
 peft
+matplotlib
