@@ -162,15 +162,9 @@ cython_debug/
 #.idea/
 
 # ignore the local copy of the dataset
-MathInstructDataset/
-MathInstructSmall/
-MathInstructMedium/
-MathInstructLarge/
+MathInstruct*/
 
 # ignore the model weights and checkpoints
-results/
-results0/
-results1/
-
+result*/
 # ignore the output model 
-Meta-Llama-3-8B-Instruct-abliterated-math-v0/
+Meta-Llama-3-8B-Instruct-abliterated-math*/
